@@ -1,0 +1,34 @@
+<resources>
+
+    <string name="app_name">Prova Fácil</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_ajuda">Ajuda</string>
+    <string name="action_sobre">Sobre</string>
+    <string name="action_subtitulo">Sub Titulo</string>
+    <string name="action_opcao1">Minhas Provas</string>
+    <string name="action_opcao2">Opção 2</string>
+    <string name="action_opcao3">Opção 3</string>
+    <string name="action_sair">Sair</string>
+    <string name="action_voltar">Voltar</string>
+    <string name="action_como_funciona">Sobre?</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_provas">ProvasActivity</string>
+    <string-array name="Disciplina">
+        <item>Disciplina</item>
+        <item>Matematica</item>
+        <item>Portugues</item>
+        <item>Ingles</item>
+    </string-array>
+    <string-array name="Tema">
+        <item>Tema</item>
+        <item>Geometria</item>
+        <item>Algebra</item>
+        <item>Funcao</item>
+    </string-array>
+    <string name="title_activity_vai">VaiActivity</string>
+
+</resources>

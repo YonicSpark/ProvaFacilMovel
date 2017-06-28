@@ -1,0 +1,77 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    tools:context="exemplo.restcliente.fragments.SobreFragment"
+    android:orientation="vertical">
+    <!-- inicio banner app -->
+
+
+    <!-- fim banner app -->
+
+    <exemplo.restcliente.DashboardLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/main_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <Button
+            android:id="@+id/b1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@android:color/transparent"
+            android:drawableTop="@drawable/prova"
+            android:onClick="onClickZero"
+            android:text="Prova 1" />
+
+        <Button
+            android:id="@+id/b2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@android:color/transparent"
+            android:drawableTop="@drawable/prova"
+            android:onClick="onClickUm"
+            android:text="Prova 2" />
+
+        <Button
+            android:id="@+id/b3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@android:color/transparent"
+            android:drawableTop="@drawable/prova"
+            android:onClick="OnClickDois"
+            android:text="Prova 3"
+            android:visibility="visible" />
+
+        <Button
+            android:id="@+id/b4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@android:color/transparent"
+            android:drawableTop="@drawable/prova"
+            android:onClick="onClickTres"
+            android:text="Prova 4" />
+
+        <Button
+            android:id="@+id/b5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@android:color/transparent"
+            android:drawableTop="@drawable/prova"
+
+            android:onClick="onClick4"
+            android:text="Prova 5" />
+
+        <Button
+            android:id="@+id/b6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@android:color/transparent"
+            android:drawableTop="@drawable/prova"
+            android:onClick="onClick5"
+            android:text="Prova 6" />
+
+    </exemplo.restcliente.DashboardLayout>
+    <!-- TODO: Update blank fragment layout -->
+
+
+</LinearLayout>
