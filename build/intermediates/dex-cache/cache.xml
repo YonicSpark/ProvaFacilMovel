@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\DANILLO\.android\build-cache\a0c3681ee3c3c78252d104a323c1494deadff9e5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\DANILLO\Desktop\ProjetosAndroid\Trabalho\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_20e7a5540647c9916262751a3ec5e6d3bf6a221d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DANILLO\Desktop\ProjetosAndroid\Trabalho\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Users\DANILLO\Desktop\ProjetosAndroid\Trabalho\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_162cee56424142a81b343e8b13bd792fbf2c1e80\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DANILLO\.android\build-cache\f73807c64a5ed73737cb95d5d703fb58fec83acd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\DANILLO\Desktop\ProjetosAndroid\Trabalho\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f4ec8e6c8ae4c77bc6cf2f32a0be2e8d20ee411e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DANILLO\.android\build-cache\f73807c64a5ed73737cb95d5d703fb58fec83acd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\DANILLO\Desktop\ProjetosAndroid\Trabalho\app\build\intermediates\pre-dexed\debug\classes_f4ec8e6c8ae4c77bc6cf2f32a0be2e8d20ee411e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DANILLO\Desktop\ProjetosAndroid\Trabalho\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="62a195fb64d101c1196cd497dfd87e608d784313">
+        <dex dex="C:\Users\DANILLO\Desktop\ProjetosAndroid\Trabalho\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_b3951669ffeb5fb15f43448afc475fe4e3929dab\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DANILLO\.android\build-cache\a0c3681ee3c3c78252d104a323c1494deadff9e5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\DANILLO\Desktop\ProjetosAndroid\Trabalho\app\build\intermediates\pre-dexed\debug\classes_20e7a5540647c9916262751a3ec5e6d3bf6a221d.jar" />
+    </item>
+
+</items>

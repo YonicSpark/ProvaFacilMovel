@@ -52,7 +52,6 @@ public class PesquisaActivity extends AppCompatActivity implements AdapterView.O
         listView.setOnItemClickListener(this);
         Bundle bundle = getIntent().getExtras();
         codProva = bundle.getInt("ID");
-        Toast.makeText(this,String.valueOf(codProva) , Toast.LENGTH_SHORT).show();
     }
 
     public void onClickRes(View v) {
@@ -64,7 +63,6 @@ public class PesquisaActivity extends AppCompatActivity implements AdapterView.O
                 ),
                 URL_SERVICO2
         );
-        Toast.makeText(this, sp1.getSelectedItem().toString()+" "+ sp2.getSelectedItem().toString(), Toast.LENGTH_SHORT).show();
 
     }
     public void requisitaPost(final String parametroJSON, final String URL_) {
