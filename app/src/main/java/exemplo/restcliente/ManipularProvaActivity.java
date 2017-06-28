@@ -54,7 +54,7 @@ public class ManipularProvaActivity extends AppCompatActivity {
         sp1 = (Spinner) findViewById(R.id.spinner1); //spinners
         sp2 = (Spinner) findViewById(R.id.spinner2);     //spinners
         ArrayAdapter adapter = ArrayAdapter.createFromResource(this,R.array.Disciplina,android.R.layout.simple_spinner_item);
-        ArrayAdapter adapter2 = ArrayAdapter.createFromResource(this,R.array.Tema,android.R.layout.simple_spinner_item);
+        ArrayAdapter adapter2 = ArrayAdapter.createFromResource(this,R.array.curso,android.R.layout.simple_spinner_item);
         sp1.setAdapter(adapter);
         sp2.setAdapter(adapter2);
     }

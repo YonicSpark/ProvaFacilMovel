@@ -15,10 +15,6 @@
     <item android:title="...">
         <menu>
             <item
-                android:id="@+id/nav_como_funciona"
-                android:icon="@drawable/ic_menu_send"
-                android:title="@string/action_como_funciona" />
-            <item
                 android:id="@+id/nav_sair"
                 android:icon="@drawable/ic_menu_send"
                 android:title="@string/action_sair" />

@@ -23,6 +23,13 @@
         <item>Portugues</item>
         <item>Ingles</item>
     </string-array>
+    <string-array name="curso">
+        <item>Curso 1</item>
+        <item>Curso 2</item>
+        <item>Curso 3</item>
+        <item>Curso 4</item>
+
+    </string-array>
     <string-array name="Tema">
         <item>Tema</item>
         <item>Geometria</item>
